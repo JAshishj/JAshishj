@@ -127,8 +127,8 @@ I'm a **second-year Computer Science undergraduate** at **Manipal Institute of T
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAshishj&show_icons=true&theme=transparent&title_color=0891b2&text_color=0891b2&icon_color=06b6d4&border_color=0891b2&hide_rank=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAshishj&layout=compact&theme=transparent&title_color=0891b2&text_color=0891b2&border_color=0891b2&hide=html,css" alt="Top Languages" height="170" />
+  <img src="https://gh-stats.deoxy.dev/api?username=JAshishj&show_icons=true&theme=transparent&title_color=0891b2&text_color=0891b2&icon_color=06b6d4&border_color=0891b2&hide_rank=true" alt="GitHub Stats" height="170" />
+  <img src="https://gh-stats.deoxy.dev/api/top-langs?username=JAshishj&layout=compact&theme=transparent&title_color=0891b2&text_color=0891b2&border_color=0891b2&hide=html,css" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
@@ -142,8 +142,6 @@ I'm a **second-year Computer Science undergraduate** at **Manipal Institute of T
 <p align="center">
   <a href="mailto:ashishshenoy7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ashish-shenoy-8161073a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/JAshishj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://drive.google.com/file/d/1-43yWeNGzOaqSY1zcgoGDfaYwvLnPXH6/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0891B2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 </p>
 
 <p align="center"><i>Always open to collaborating on interesting projects and learning something new.</i></p>
