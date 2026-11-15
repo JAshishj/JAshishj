@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/JAshishj"><img src="https://komarev.com/ghpvc/?username=JAshishj&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views" /></a>
-  <a href="https://github.com/JAshishj?tab=followers"><img src="https://img.shields.io/github/followers/JAshishj?label=Followers&style=flat-square&color=06b6d4" alt="Followers" /></a>
+  <a href="https://github.com/JAshishj?tab=followers"><img src="https://img.shields.io/github/followers/JAshishj?label=Followers&style=flat-square&color=8B5CF6" alt="Followers" /></a>
 </p>
 
 ---
@@ -18,7 +18,6 @@ I'm a **second-year Computer Science undergraduate** at **Manipal Institute of T
 - 🔭 Currently building full-stack applications and AI-powered tools
 - 🌱 Learning more about backend systems, distributed storage, and applied deep learning
 - 💡 Interests: Software Engineering · Backend Systems · Applied AI/ML
-- 🏆 Finalist at the **India AI Impact Buildathon 2026** (Top 2% of 40,000+ participants)
 - 📫 Reach me at **ashishshenoy7@gmail.com**
 
 ---
@@ -68,71 +67,15 @@ I'm a **second-year Computer Science undergraduate** at **Manipal Institute of T
 
 ---
 
-## 🚀 Featured Projects
-
-### ☁️ [Nimbus Drive](https://github.com/JAshishj/Nimbus-Drive) &nbsp;·&nbsp; [Live Demo](https://nimbus-drive-phi.vercel.app/)
-> A full-stack cloud storage app inspired by Google Drive.
-
-- File uploads, organisation, viewing, downloading, and full file management
-- Secure auth with **bcrypt** password hashing and **JWT** access/refresh tokens
-- **PostgreSQL (Neon)** for persistence and **Cloudflare R2** for object storage
-- Frontend on **Vercel**, backend on **Render**
-
-`React 19` · `Node.js` · `Express 5` · `PostgreSQL` · `Cloudflare R2`
-
-### 🎙️ [AI Voice Detection System](https://github.com/JAshishj/voice-ai-detector) &nbsp;·&nbsp; [Live Demo](https://voice-ai-detector-rho.vercel.app/)
-> End-to-end classifier that distinguishes human from AI-generated audio.
-
-- Fine-tuned **Wav2Vec2** model with custom artifact-CNN feature extraction
-- **96.3% accuracy** on a 300-clip held-out set · F1 **0.964** · AUC **0.992** · EER **0.020**
-- React forensic console + windowed FastAPI inference for long clips, with rate limiting
-
-`Python` · `Wav2Vec2` · `CNN` · `FastAPI` · `React` · `TypeScript`
-
-### 📋 [Apply Flow](https://github.com/JAshishj/Apply-Flow) &nbsp;·&nbsp; [Live Demo](https://apply-flow-tau.vercel.app/)
-> A job application tracker that keeps your entire search organised.
-
-- Status tracking, submission history, and deadline management
-- Data persisted locally in the browser via **LocalStorage**
-- Clean, responsive UI built with **React** and **Tailwind CSS**
-
-`React` · `JavaScript` · `Tailwind CSS`
-
-### 🏙️ [Resilience Copilot](https://github.com/JAshishj/Resilience-Copilot)
-> AI-assisted city planning copilot that simulates infrastructure failures, computes resilience metrics, and recommends countermeasures.
-
-`Python` · `Streamlit` · `NetworkX` · `Plotly`
-
-### 🚦 [Traffic Sentinel](https://github.com/JAshishj/Traffic-Sentinel)
-> AI-powered traffic violation detection with scene-adaptive preprocessing, plate OCR, and repeat-offender tracking.
-
-`Python` · `Computer Vision` · `OCR` · `Streamlit`
-
----
-
-## 🏆 Achievements
-
-<table>
-  <tr>
-    <td width="120" align="center">🏅</td>
-    <td>
-      <b>Finalist — India AI Impact Buildathon 2026</b><br/>
-      Top 2% among 40,000+ participants · organised by HCL GUVI and the Government of India as part of the AI Impact Summit India 2026.
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://gh-stats.deoxy.dev/api?username=JAshishj&show_icons=true&theme=transparent&title_color=0891b2&text_color=0891b2&icon_color=06b6d4&border_color=0891b2&hide_rank=true" alt="GitHub Stats" height="170" />
-  <img src="https://gh-stats.deoxy.dev/api/top-langs?username=JAshishj&layout=compact&theme=transparent&title_color=0891b2&text_color=0891b2&border_color=0891b2&hide=html,css" alt="Top Languages" height="170" />
+  <img src="https://gh-stats.deoxy.dev/api?username=JAshishj&show_icons=true&theme=transparent&title_color=8B5CF6&text_color=C4B5FD&icon_color=A78BFA&border_color=6D28D9&hide_rank=true" alt="GitHub Stats" height="170" />
+  <img src="https://gh-stats.deoxy.dev/api/top-langs?username=JAshishj&layout=compact&theme=transparent&title_color=8B5CF6&text_color=C4B5FD&border_color=6D28D9&hide=html,css" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JAshishj&theme=transparent&ring=0891b2&fire=06b6d4&currStreakNum=0891b2&sideNums=0891b2&currStreakLabel=0891b2&sideLabels=0891b2&dates=0891b2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JAshishj&theme=transparent&ring=8B5CF6&fire=A78BFA&currStreakNum=8B5CF6&sideNums=C4B5FD&currStreakLabel=C4B5FD&sideLabels=8B5CF6&dates=C4B5FD" alt="GitHub Streak" />
 </p>
 
 ---
